@@ -3,7 +3,7 @@
 ### Description
 
 This Class provides a simple way to enable/disable Windows Error Reporting (WER), 
-we based all in this [guide](https://docs.microsoft.com/en-us/windows/desktop/wer/wer-settings)
+we based all in this [guide](https://docs.microsoft.com/en-us/windows/desktop/wer/windows-error-reporting)
 
 ### Usage
 
